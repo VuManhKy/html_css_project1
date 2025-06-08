@@ -1,0 +1,9 @@
+h1 {
+  color: aqua;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 22px;
+}
+p {
+  color: brown;
+  font-variant: small-caps;
+}
