@@ -1,4 +1,5 @@
-h1 {
+h1,
+a {
   color: aqua;
   font-family: "Courier New", Courier, monospace;
   font-size: 22px;

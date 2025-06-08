@@ -4,3 +4,8 @@ h2 {
 p {
   color: yellowgreen;
 }
+a {
+  color: aqua;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 22px;
+}
